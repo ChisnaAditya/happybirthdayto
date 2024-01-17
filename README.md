@@ -1,5 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-#NEXT JS HAPPY BIRTHDAY TO YOU
+# NEXT JS HAPPY BIRTHDAY TO YOU
 Simple happybirthday card using Nextjs and NextUi
 
 ## Getting Started
